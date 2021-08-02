@@ -1,0 +1,20 @@
+.contact {
+    text-align: right;
+    font-style: normal;
+}
+
+.contact__phone {
+    font-size: 21px;
+    color: #ffff;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: "Roboto-Regular_1";
+    
+}
+
+.contact__workhours {
+    font-size: 14px;
+    color: #ffff;
+    font-weight: bold;
+    opacity: .7;
+}

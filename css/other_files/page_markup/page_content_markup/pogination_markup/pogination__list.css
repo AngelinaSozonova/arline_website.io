@@ -1,0 +1,12 @@
+@import url("./pogination__item.css");
+
+.pogination__list--vertical {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.pogination__list  {
+    list-style-type: none;
+    font-family: "Roboto-Regular_1";
+}

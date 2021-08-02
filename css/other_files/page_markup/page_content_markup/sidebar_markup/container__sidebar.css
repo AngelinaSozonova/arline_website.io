@@ -1,0 +1,12 @@
+@import url("./menu__list.css");
+
+.container {
+    margin: 0 auto;
+    width: 1100px;
+    position: relative;
+}
+
+.container__sidebar {
+    width: 199px;
+    height: 1657px;
+}

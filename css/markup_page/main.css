@@ -1,0 +1,61 @@
+@import url("../other_files/page_markup/page.css");
+
+html body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    margin: 0;
+    font-family: "Roboto-Bold_1";
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+p {
+    font-family: "Roboto-Regular_1";
+}
+
+@font-face {
+    font-family: "Roboto-Bold_1";
+    src: url("./fonts/Roboto-Bold_1.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Roboto-Regular_1";
+    src: url("./fonts/Roboto-Regular.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Roboto-Lightltalic_1";
+    src: url("./fonts/Roboto-LightItalic_1.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+

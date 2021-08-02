@@ -1,0 +1,7 @@
+@import url("./news__left-col.css");
+@import url("./news__content__text.css");
+
+.news__item {
+    display: flex;
+    justify-content: space-between;
+}

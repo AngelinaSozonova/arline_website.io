@@ -1,0 +1,12 @@
+@import url("./social__item.css");
+
+.social__list {
+    list-style-type: none;
+}
+
+.social__list--vertical {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    text-align: center;
+}

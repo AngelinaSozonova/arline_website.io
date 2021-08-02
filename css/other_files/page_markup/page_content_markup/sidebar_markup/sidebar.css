@@ -1,0 +1,6 @@
+@import url("./container__sidebar.css");
+
+.sidebar {
+    width: 214px ;
+    float: left;
+}

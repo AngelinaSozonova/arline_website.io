@@ -1,0 +1,8 @@
+@import url("./tarif__item.css");
+@import url("./tarif__picture.css");
+@import url("./tarif__cotent.css");
+
+.tarif__list--vertical {
+    display: flex;
+    justify-content: center; 
+}

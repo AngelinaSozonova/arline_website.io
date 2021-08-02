@@ -1,0 +1,6 @@
+@import url("./pogination__list.css");
+
+.pogination__controlls--vertical {
+    display: flex;
+    align-items: center;
+}

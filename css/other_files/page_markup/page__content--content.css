@@ -1,0 +1,7 @@
+@import url("./header_markup/header.css");
+@import url("./page_content_markup/page__content.css");
+@import url("./footer_markup/footer.css");
+
+.page__content--content {
+    flex: 1;
+}

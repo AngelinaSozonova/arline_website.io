@@ -1,0 +1,13 @@
+@import url("./tarif__name.css" );
+@import url("./tarif__block.css" );
+
+.tarif__content {
+    width: 245px;
+    height: 224px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #262424;
+    font-weight: 300;
+    padding-top: 35px;
+}
+

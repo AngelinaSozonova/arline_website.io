@@ -1,0 +1,13 @@
+@import url("./social__link.css");
+
+.social__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 21px;
+    height: 21px;
+    border-radius: 10px;
+    background-color: #d4ddf2;
+    margin: 0 4px 0 4px;
+}

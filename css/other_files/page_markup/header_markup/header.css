@@ -1,0 +1,9 @@
+@import url("./header__container.css");
+
+.header {
+    background: #5973b1;
+    color: #ffff;
+    margin-bottom: 13px;
+    height: 77px;
+}
+

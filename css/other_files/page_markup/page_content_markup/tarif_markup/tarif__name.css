@@ -1,0 +1,9 @@
+.tarif__name {
+    font-size: 11px;
+    letter-spacing: 3px;
+    line-height: 51px;
+    color: #262626;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Roboto-Bold_1";
+}

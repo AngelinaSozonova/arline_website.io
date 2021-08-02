@@ -1,0 +1,9 @@
+@import url("./logo__center.css");
+@import url("./comment.css");
+@import url("./social.css");
+
+.conteiner__footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

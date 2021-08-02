@@ -1,0 +1,14 @@
+@import url("./pogination__display.css");
+@import url("./pogination__controlls.css");
+
+.pogination {
+    display: inline-block;
+    vertical-align: top;
+}
+.pogination--vertical {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 59px;
+    align-items: center;
+    text-align: center;
+}

@@ -1,0 +1,7 @@
+@import url("./news__list.css");
+@import url("./news__title.css");
+
+.news {
+    display: inline-block;
+    vertical-align: top;
+}

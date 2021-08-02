@@ -1,0 +1,44 @@
+.tarif__picture {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 68px;
+    height: 68px;
+    border-radius: 34px;
+    background-color: #5972b1;
+}
+
+.tarif__link {
+    display: block;
+    align-items: center;
+    width: 28px;
+    height: 31px;
+}
+
+.tarif__item__icon--flower .tarif__link{
+    background-image: url('../../../../../pictures/tarif_page/flower.png');
+    display: block;
+}
+
+.tarif__item__icon--flower .tarif__link:hover {
+    background-image: url('../../../../../pictures/tarif_page/flower\ \(1\).png');
+}
+
+.tarif__item__icon--mark .tarif__link{
+    background-image: url('../../../../../pictures/tarif_page/mark-as-favorite-star.png');
+    display: block;
+}
+
+.tarif__item__icon--mark .tarif__link:hover {
+    background-image: url('../../../../../pictures/tarif_page/mark-as-favorite-star\ \(1\).png');
+}
+
+.tarif__item__icon--painter .tarif__link{
+    background-image: url('../../../../../pictures/tarif_page/painter-palette.png');
+    display: block;
+}
+
+.tarif__item__icon--painter .tarif__link:hover {
+    background-image: url('../../../../../pictures/tarif_page/painter-palette\ \(1\).png');
+}

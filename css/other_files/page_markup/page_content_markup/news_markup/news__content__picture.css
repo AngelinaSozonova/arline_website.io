@@ -1,0 +1,12 @@
+.news__content__picture {
+    max-width: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.news__content__img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

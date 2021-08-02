@@ -1,0 +1,10 @@
+@import url("./tarif__cotent.css");
+@import url("./tarif__picture.css");
+@import url("./tarif__name__price.css");
+
+.tarif__item {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+}
